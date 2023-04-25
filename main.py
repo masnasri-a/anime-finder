@@ -2,7 +2,6 @@ from service import anoboy, nontonanimeid
 
 if __name__ == '__main__':
     param = input("Search your anime : ")
-    animeList.get_anime_list(param)
     # param = "isekai de cheat"
     print("Select Platform")
     platforms = ["Anoboy","NontonAnimeId"]
